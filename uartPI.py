@@ -1,5 +1,5 @@
 #ramsal
-#powered by BeeHacker
+#powered by BeeHackers
 import sys
 import os
 import dbus, dbus.mainloop.glib
