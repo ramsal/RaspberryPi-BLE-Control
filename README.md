@@ -5,3 +5,4 @@ REQS:
 - Raspberry Pi 2/3/4
 - Raspbian
 - BlueZ
+-APP Client -> nRF Toolbox for BLE > UART
